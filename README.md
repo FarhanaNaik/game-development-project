@@ -86,10 +86,11 @@ else:
 ## Links
 
 Initial view:-
-http://127.0.0.1:5501/index.html
 
-it consists of three levels:-
-Easy::-http://127.0.0.1:5501/index.html
+
+![Screenshot (1)](https://user-images.githubusercontent.com/102233541/182040536-2df30baf-3e0f-4757-b7ad-feb4afae84bf.png)
+
+Easy::-http://127
 Intermediate ::-http://127.0.0.1:5501/index.html
 Hard::-http://127.0.0.1:5501/index.html
 
